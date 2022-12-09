@@ -1,0 +1,57 @@
+html{
+    background-color: white;
+}
+#main{
+    margin-top: 50px;
+    background-color: rgba(187, 186, 186, 0.521);
+}
+.header{
+    font-size: 20px;
+    text-align: center;
+    padding: 2%;
+    margin-top: -20px;
+    margin-bottom: -30px;
+}
+.image {
+    background-color: white;
+    padding-bottom: 10px;
+}
+#image{
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 75%;
+}
+
+#para{
+    font-size: 18px;
+    text-align: center;
+}
+
+#title{
+    text-align: center;
+    padding: 2%;
+}
+
+.list{
+    margin-left: 25%;
+    margin-right: 25%;
+}
+
+.list li{
+    padding: 2%;
+}
+
+#text{
+    margin-left: 25%;
+    margin-right: 25%;
+    padding: 2%;
+}
+
+#more{
+    text-align: center;
+    font-size: 25px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 2%;
+}
